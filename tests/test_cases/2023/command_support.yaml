@@ -54,6 +54,7 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 0147:TP_B
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
+  - 7E0.015E:FUEL_RATE
   "7E1":
   - 7E1.7E9.0101
   - 7E1.7E9.0142
@@ -78,7 +79,6 @@ unsupported_commands_by_ecu:
   - 7E0.0146:AAT
   - 7E0.0147:TP_B
   - 7E0.015B:BAT_SOC
-  - 7E0.015E:FUEL_RATE
   - 7E0.019D:FUEL_RATE_ALT,VFUEL_RATE
   - 7E0.019E:EXH_RATE
   - 7E0.01A6:ODO
