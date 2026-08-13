@@ -56,6 +56,7 @@ supported_commands_by_ecu:
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.0144:EQ_RAT
   - 7E0.015E:FUEL_RATE
+  - 7E0.01A6:ODO
   "7E1":
   - 7E1.7E9.0101
   - 7E1.7E9.0142
@@ -81,7 +82,6 @@ unsupported_commands_by_ecu:
   - 7E0.015B:BAT_SOC
   - 7E0.019D:FUEL_RATE_ALT,VFUEL_RATE
   - 7E0.019E:EXH_RATE
-  - 7E0.01A6:ODO
   "D016":
   - D016.22EE6F|ta=30,fc=1,c=1D:VOLVO_APP_POS
   "D01A":
