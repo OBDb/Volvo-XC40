@@ -128,7 +128,7 @@
   "signals": [
     {"id": "XC40_ENG_TQ", "path": "Engine", "fmt": { "len": 16, "max": 6041, "min": -512, "div": 10, "add": -512, "unit": "newtonMeters" }, "name": "Engine torque"}
   ]},
-{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "years": [2018, 2019, 2020, 2021, 2022], "from": 2024 },
+{ "hdr": "D016", "rax": "1EC64E80", "pri": "1D", "tst": "32", "fcm1": true, "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "years": [2018, 2019, 2020, 2021, 2022, 2024, 2025], "from": 2027 },
   "signals": [
     {"id": "XC40_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
