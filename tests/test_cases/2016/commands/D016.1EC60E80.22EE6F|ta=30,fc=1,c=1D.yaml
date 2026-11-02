@@ -1,0 +1,17 @@
+command_id: D016.1EC60E80.22EE6F|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_ENG_CLT_FAN: 6.99
+  response: 1EC60E800562EE6F02BB
+- expected_values:
+    XC40_ENG_CLT_FAN: 14.98
+  response: 1EC60E800562EE6F05DA
+- expected_values:
+    XC40_ENG_CLT_FAN: 20
+  response: 1EC60E800562EE6F07D0
+- expected_values:
+    XC40_ENG_CLT_FAN: 25
+  response: 1EC60E800562EE6F09C4
+- expected_values:
+    XC40_ENG_CLT_FAN: 45
+  response: 1EC60E800562EE6F1194

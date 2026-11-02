@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22EE58|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_EOT: 7.66
+  response: 1EC60E800562EE580AF8
+- expected_values:
+    XC40_EOT: 8.16
+  response: 1EC60E800562EE580AFD
+- expected_values:
+    XC40_EOT: 59.66
+  response: 1EC60E800562EE580D00
+- expected_values:
+    XC40_EOT: 573.16
+  response: 1EC60E800562EE58210F

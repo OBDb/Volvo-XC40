@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22EE34|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_AC_P: 9094
+  response: 1EC60E800562EE3411C3
+- expected_values:
+    XC40_AC_P: 10762
+  response: 1EC60E800562EE341505
+- expected_values:
+    XC40_AC_P: 11772
+  response: 1EC60E800562EE3416FE
+- expected_values:
+    XC40_AC_P: 12550
+  response: 1EC60E800562EE341883

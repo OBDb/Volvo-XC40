@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22EE3E|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_CHG_AIR_P: 101.90754
+  response: 1EC60E800562EE3E32F5
+- expected_values:
+    XC40_CHG_AIR_P: 103.98553
+  response: 1EC60E800562EE3E33FF
+- expected_values:
+    XC40_CHG_AIR_P: 103.99334
+  response: 1EC60E800562EE3E3400
+- expected_values:
+    XC40_CHG_AIR_P: 129.00737
+  response: 1EC60E800562EE3E4082

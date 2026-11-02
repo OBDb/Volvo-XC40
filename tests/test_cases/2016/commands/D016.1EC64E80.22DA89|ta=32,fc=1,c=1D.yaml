@@ -1,0 +1,11 @@
+command_id: D016.1EC64E80.22DA89|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_ENG_TQ: -512
+  response: 1EC64E800562DA890000
+- expected_values:
+    XC40_ENG_TQ: -461
+  response: 1EC64E800562DA8901FE
+- expected_values:
+    XC40_ENG_TQ: 6016.6
+  response: 1EC64E800562DA89FF06

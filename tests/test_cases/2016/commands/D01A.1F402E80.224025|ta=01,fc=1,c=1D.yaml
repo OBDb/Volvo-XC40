@@ -1,0 +1,14 @@
+command_id: D01A.1F402E80.224025|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_AVG_STATIC_LOW_RANGE: -26
+  response: 1F402E800562402501E5
+- expected_values:
+    XC40_AVG_STATIC_LOW_RANGE: -25
+  response: 1F402E800562402501E6
+- expected_values:
+    XC40_AVG_STATIC_LOW_RANGE: -22
+  response: 1F402E800562402501E9
+- expected_values:
+    XC40_AVG_STATIC_LOW_RANGE: -21
+  response: 1F402E800562402501EA

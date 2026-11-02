@@ -1,0 +1,26 @@
+command_id: D01A.1F422E80.229843|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_INTERIOR_T: 22.4
+  response: 1F422E800562984367FC
+- expected_values:
+    XC40_INTERIOR_T: 23.2
+  response: 1F422E8005629843689C
+- expected_values:
+    XC40_INTERIOR_T: 23.2
+  response: 1F422E800562984368BC
+- expected_values:
+    XC40_INTERIOR_T: 25.6
+  response: 1F422E80056298436B88
+- expected_values:
+    XC40_INTERIOR_T: 25.6
+  response: 1F422E80056298436BA8
+- expected_values:
+    XC40_INTERIOR_T: 26.4
+  response: 1F422E80056298436C68
+- expected_values:
+    XC40_INTERIOR_T: 27.2
+  response: 1F422E80056298436D48
+- expected_values:
+    XC40_INTERIOR_T: 27.2
+  response: 1F422E80056298436D88

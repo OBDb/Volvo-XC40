@@ -1,0 +1,11 @@
+command_id: D016.1EC64E80.22D900|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_ATF_T_D016_2: 262000
+  response: 1EC64E800762D90001060106
+- expected_values:
+    XC40_ATF_T_D016_2: 446000
+  response: 1EC64E800762D90001BE01BE
+- expected_values:
+    XC40_ATF_T_D016_2: 547000
+  response: 1EC64E800762D90002230223

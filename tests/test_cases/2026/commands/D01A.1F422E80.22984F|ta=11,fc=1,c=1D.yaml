@@ -1,0 +1,11 @@
+command_id: D01A.1F422E80.22984F|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_EVAPORATOR_T: 14
+  response: 1F422E800662984F008C00
+- expected_values:
+    XC40_EVAPORATOR_T: 17.5
+  response: 1F422E800662984F00AF00
+- expected_values:
+    XC40_EVAPORATOR_T: 25.6
+  response: 1F422E800662984F010000

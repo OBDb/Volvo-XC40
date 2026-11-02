@@ -1,0 +1,14 @@
+command_id: D01A.1F402E80.22417E|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_AUXILIARY_BAT_V: 0
+  response: 1F402E800462417E00
+- expected_values:
+    XC40_AUXILIARY_BAT_V: 13.2
+  response: 1F402E800462417E84
+- expected_values:
+    XC40_AUXILIARY_BAT_V: 13.3
+  response: 1F402E800462417E85
+- expected_values:
+    XC40_AUXILIARY_BAT_V: 13.4
+  response: 1F402E800462417E86

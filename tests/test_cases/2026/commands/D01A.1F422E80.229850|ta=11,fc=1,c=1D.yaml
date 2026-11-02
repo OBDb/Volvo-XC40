@@ -1,0 +1,8 @@
+command_id: D01A.1F422E80.229850|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HEAT_EXCHANGER_T: 31
+  response: 1F422E8006629850013600
+- expected_values:
+    XC40_HEAT_EXCHANGER_T: 37.4
+  response: 1F422E8006629850017600

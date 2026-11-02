@@ -1,0 +1,5 @@
+command_id: D016.1EC60E80.22EF71|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HIGH_V_MOTOR_CLT_PMP: 0
+  response: 1EC60E800462EF7100

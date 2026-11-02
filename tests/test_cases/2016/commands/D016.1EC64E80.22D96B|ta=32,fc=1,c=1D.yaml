@@ -1,0 +1,12 @@
+command_id: D016.1EC64E80.22D96B|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_CLU_ACTUATOR_1_T: 261
+  response: |-
+    1EC64E80100A62D96B010505
+    1EC64E802105050505000000
+- expected_values:
+    XC40_CLU_ACTUATOR_1_T: 517
+  response: |-
+    1EC64E80100A62D96B020505
+    1EC64E802105050505000000

@@ -1,0 +1,29 @@
+command_id: D016.1EC64E80.22DA47|ta=32,fc=1,c=1D,f=-2022
+test_cases:
+- expected_values:
+    XC40_GEAR_RAT_REQ: 0.672
+  response: 1EC64E800562DA4702A0
+- expected_values:
+    XC40_GEAR_RAT_REQ: 0.808
+  response: 1EC64E800562DA470328
+- expected_values:
+    XC40_GEAR_RAT_REQ: 1
+  response: 1EC64E800562DA4703E8
+- expected_values:
+    XC40_GEAR_RAT_REQ: 1.231
+  response: 1EC64E800562DA4704CF
+- expected_values:
+    XC40_GEAR_RAT_REQ: 1.47
+  response: 1EC64E800562DA4705BE
+- expected_values:
+    XC40_GEAR_RAT_REQ: 1.95
+  response: 1EC64E800562DA47079E
+- expected_values:
+    XC40_GEAR_RAT_REQ: 2.972
+  response: 1EC64E800562DA470B9C
+- expected_values:
+    XC40_GEAR_RAT_REQ: 4.003
+  response: 1EC64E800562DA470FA3
+- expected_values:
+    XC40_GEAR_RAT_REQ: 5.07
+  response: 1EC64E800562DA4713CE

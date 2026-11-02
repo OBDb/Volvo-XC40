@@ -1,0 +1,11 @@
+command_id: D01A.1F422E80.224336|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_AUXILIARY_WATER_PMP: 0
+  response: 1F422E800462433600
+- expected_values:
+    XC40_AUXILIARY_WATER_PMP: 57
+  response: 1F422E800462433639
+- expected_values:
+    XC40_AUXILIARY_WATER_PMP: 59
+  response: 1F422E80046243363B
