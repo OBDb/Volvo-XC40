@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22EE37|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_EOP: 896
+  response: 1EC60E800562EE370380
+- expected_values:
+    XC40_EOP: 2561
+  response: 1EC60E800562EE370A01
+- expected_values:
+    XC40_EOP: 2797
+  response: 1EC60E800562EE370AED
+- expected_values:
+    XC40_EOP: 4884
+  response: 1EC60E800562EE371314

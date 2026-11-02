@@ -1,0 +1,11 @@
+command_id: D01A.1F402E80.224090|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_BAT_CURRENT: 0
+  response: 1F402E80056240902000
+- expected_values:
+    XC40_BAT_CURRENT: 15.375
+  response: 1F402E800562409020F6
+- expected_values:
+    XC40_BAT_CURRENT: 16.1875
+  response: 1F402E80056240902103

@@ -1,0 +1,11 @@
+command_id: D01A.1F402E80.224028|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_BAT_ST_CHG: 68.7
+  response: 1F402E800562402802AF
+- expected_values:
+    XC40_BAT_ST_CHG: 80.2
+  response: 1F402E80056240280322
+- expected_values:
+    XC40_BAT_ST_CHG: 100
+  response: 1F402E800562402803E8

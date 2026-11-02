@@ -1,0 +1,14 @@
+command_id: D016.1EC6AE80.22480B|ta=35,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HVBAT_OBC_FUSE_V: 306.29
+  response: 1EC6AE800562480B77A5
+- expected_values:
+    XC40_HVBAT_OBC_FUSE_V: 319.87
+  response: 1EC6AE800562480B7CF3
+- expected_values:
+    XC40_HVBAT_OBC_FUSE_V: 337.92
+  response: 1EC6AE800562480B8400
+- expected_values:
+    XC40_HVBAT_OBC_FUSE_V: 340.66
+  response: 1EC6AE800562480B8512

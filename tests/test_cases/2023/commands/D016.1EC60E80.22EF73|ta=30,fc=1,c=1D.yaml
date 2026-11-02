@@ -1,0 +1,8 @@
+command_id: D016.1EC60E80.22EF73|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HIGH_V_ED_ECT_2: 2948
+  response: 1EC60E800562EF730B84
+- expected_values:
+    XC40_HIGH_V_ED_ECT_2: 3036
+  response: 1EC60E800562EF730BDC

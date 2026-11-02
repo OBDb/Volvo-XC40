@@ -1,0 +1,11 @@
+command_id: D01A.1F422E80.229843|ta=11,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_INTERIOR_T: 15.2
+  response: 1F422E80056298435EFC
+- expected_values:
+    XC40_INTERIOR_T: 20
+  response: 1F422E80056298436408
+- expected_values:
+    XC40_INTERIOR_T: 28.8
+  response: 1F422E80056298436F1C

@@ -1,0 +1,8 @@
+command_id: D016.1EC64E80.22D926|ta=32,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_CLU_1_T: 33
+  response: 1EC64E800562D9260021
+- expected_values:
+    XC40_CLU_1_T: 86
+  response: 1EC64E800562D9260056

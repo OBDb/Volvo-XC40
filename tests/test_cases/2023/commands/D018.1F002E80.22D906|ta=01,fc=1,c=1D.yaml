@@ -1,0 +1,12 @@
+command_id: D018.1F002E80.22D906|ta=01,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_ODO_LAST_SERVICE: 31608
+  response: |-
+    1F002E80100C62D906007B78
+    1F002E8021045B32B1030900
+- expected_values:
+    XC40_ODO_LAST_SERVICE: 56475
+  response: |-
+    1F002E80100C62D90600DC9B
+    1F002E802106D47982065700

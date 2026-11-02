@@ -1,0 +1,14 @@
+command_id: D016.1EC6AE80.224803|ta=35,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HVBAT_V: 3.78
+  response: 1EC6AE8005624803017A
+- expected_values:
+    XC40_HVBAT_V: 296.96
+  response: 1EC6AE80056248037400
+- expected_values:
+    XC40_HVBAT_V: 319.99
+  response: 1EC6AE80056248037CFF
+- expected_values:
+    XC40_HVBAT_V: 343.65
+  response: 1EC6AE8005624803863D

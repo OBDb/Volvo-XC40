@@ -1,0 +1,32 @@
+command_id: D016.1EC60E80.22EE34|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_AC_P: 9522
+  response: 1EC60E800562EE341299
+- expected_values:
+    XC40_AC_P: 9524
+  response: 1EC60E800562EE34129A
+- expected_values:
+    XC40_AC_P: 9532
+  response: 1EC60E800562EE34129E
+- expected_values:
+    XC40_AC_P: 9534
+  response: 1EC60E800562EE34129F
+- expected_values:
+    XC40_AC_P: 9546
+  response: 1EC60E800562EE3412A5
+- expected_values:
+    XC40_AC_P: 9620
+  response: 1EC60E800562EE3412CA
+- expected_values:
+    XC40_AC_P: 9826
+  response: 1EC60E800562EE341331
+- expected_values:
+    XC40_AC_P: 9890
+  response: 1EC60E800562EE341351
+- expected_values:
+    XC40_AC_P: 9938
+  response: 1EC60E800562EE341369
+- expected_values:
+    XC40_AC_P: 9984
+  response: 1EC60E800562EE341380

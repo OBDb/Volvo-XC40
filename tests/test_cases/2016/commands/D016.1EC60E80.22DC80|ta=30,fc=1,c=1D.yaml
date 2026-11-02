@@ -1,0 +1,29 @@
+command_id: D016.1EC60E80.22DC80|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_WASTEGATE_POS: 6.66667
+  response: 1EC60E800462DC8011
+- expected_values:
+    XC40_WASTEGATE_POS: 13.33333
+  response: 1EC60E800462DC8022
+- expected_values:
+    XC40_WASTEGATE_POS: 20
+  response: 1EC60E800462DC8033
+- expected_values:
+    XC40_WASTEGATE_POS: 26.66667
+  response: 1EC60E800462DC8044
+- expected_values:
+    XC40_WASTEGATE_POS: 33.33333
+  response: 1EC60E800462DC8055
+- expected_values:
+    XC40_WASTEGATE_POS: 40
+  response: 1EC60E800462DC8066
+- expected_values:
+    XC40_WASTEGATE_POS: 73.33333
+  response: 1EC60E800462DC80BB
+- expected_values:
+    XC40_WASTEGATE_POS: 93.33333
+  response: 1EC60E800462DC80EE
+- expected_values:
+    XC40_WASTEGATE_POS: 100
+  response: 1EC60E800462DC80FF

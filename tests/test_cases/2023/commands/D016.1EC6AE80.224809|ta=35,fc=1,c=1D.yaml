@@ -1,0 +1,14 @@
+command_id: D016.1EC6AE80.224809|ta=35,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HVBAT_IGM_FUSE_V: 306.04
+  response: 1EC6AE8005624809778C
+- expected_values:
+    XC40_HVBAT_IGM_FUSE_V: 319.87
+  response: 1EC6AE80056248097CF3
+- expected_values:
+    XC40_HVBAT_IGM_FUSE_V: 337.92
+  response: 1EC6AE80056248098400
+- expected_values:
+    XC40_HVBAT_IGM_FUSE_V: 340.66
+  response: 1EC6AE80056248098512

@@ -1,0 +1,14 @@
+command_id: D016.1EC60E80.22EE4F|ta=30,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_FUEL_HIGH_P: 1.438
+  response: 1EC60E800562EE4F0B3C
+- expected_values:
+    XC40_FUEL_HIGH_P: 1.5355
+  response: 1EC60E800562EE4F0BFF
+- expected_values:
+    XC40_FUEL_HIGH_P: 11.136
+  response: 1EC60E800562EE4F5700
+- expected_values:
+    XC40_FUEL_HIGH_P: 19.748
+  response: 1EC60E800562EE4F9A48

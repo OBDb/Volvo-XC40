@@ -1,0 +1,17 @@
+command_id: D016.1EC6AE80.224946|ta=35,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_12V_BAT_ST_CHG: 0.9175
+  response: 1EC6AE8007624946000E221D
+- expected_values:
+    XC40_12V_BAT_ST_CHG: 0.9175
+  response: 1EC6AE8007624946000EC2FF
+- expected_values:
+    XC40_12V_BAT_ST_CHG: 0.9175
+  response: 1EC6AE8007624946000EFFCF
+- expected_values:
+    XC40_12V_BAT_ST_CHG: 0.98304
+  response: 1EC6AE8007624946000F0710
+- expected_values:
+    XC40_12V_BAT_ST_CHG: 0.98304
+  response: 1EC6AE8007624946000F4E00

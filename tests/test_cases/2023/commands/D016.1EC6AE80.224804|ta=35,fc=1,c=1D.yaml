@@ -1,0 +1,17 @@
+command_id: D016.1EC6AE80.224804|ta=35,fc=1,c=1D
+test_cases:
+- expected_values:
+    XC40_HVBAT_INLET_ECT: 15
+  response: 1EC6AE800462480441
+- expected_values:
+    XC40_HVBAT_INLET_ECT: 20
+  response: 1EC6AE800462480446
+- expected_values:
+    XC40_HVBAT_INLET_ECT: -50
+  response: 1EC6AE80056248040067
+- expected_values:
+    XC40_HVBAT_INLET_ECT: -50
+  response: 1EC6AE800562480400FF
+- expected_values:
+    XC40_HVBAT_INLET_ECT: -49
+  response: 1EC6AE80056248040100
