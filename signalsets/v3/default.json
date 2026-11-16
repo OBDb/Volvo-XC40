@@ -25,7 +25,7 @@
   ]},
 { "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "EE3E"}, "freq": 1, "dbgfilter": { "years": [2018, 2019, 2020, 2021, 2022, 2024, 2025], "from": 2027 },
   "signals": [
-    {"id": "XC40_CHG_AIR_P", "path": "Battery", "fmt": { "len": 16, "max": 511, "mul": 0.007812, "unit": "kilopascal" }, "name": "Charge air pressure"}
+    {"id": "XC40_CHG_AIR_P", "path": "Battery", "fmt": { "len": 16, "max": 511, "mul": 0.007812, "unit": "kilopascal" }, "name": "Charge air pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
 { "hdr": "D016", "rax": "1EC60E80", "pri": "1D", "tst": "30", "fcm1": true, "cmd": {"22": "EE4F"}, "freq": 1, "dbgfilter": { "years": [2018, 2019, 2020, 2021, 2022, 2024, 2025], "from": 2027 },
   "signals": [
