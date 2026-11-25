@@ -4,5 +4,8 @@ test_cases:
     XC40_CHARGER_CABLE: 0
   response: 1EC68E800562EE8D1004
 - expected_values:
+    XC40_CHARGER_CABLE: 9.8
+  response: 1EC68E800562EE8D1066
+- expected_values:
     XC40_CHARGER_CABLE: 13.8
   response: 1EC68E800562EE8D108E
